@@ -12,7 +12,7 @@ Each member writes down answers to 3 questions:
 3. Where do I need assistance? What do I need to figure out?
 
 
-2018/02/28 Anita - Qian
+2018/02/28 - Qian
 
 1. Done since last scrum:
 - created project plan
@@ -28,7 +28,7 @@ Each member writes down answers to 3 questions:
 3. Need assistance / figure things out;
 - find out how to use canvas
 ==========================================
-2018/03/01 Anita - Qian
+2018/03/01 - Qian
 
 1. Done since last scrum:
 - drew a hero tank for 4 directions
@@ -45,7 +45,7 @@ Each member writes down answers to 3 questions:
 - find out how to make the game live
 
 ==========================================
-2018/03/02 Anita - Qian
+2018/03/02 - Qian
 
 1. Done since last scrum:
 - made JPanel, JFrame, User classes like the hero tank, enemy tank
@@ -63,7 +63,7 @@ Each member writes down answers to 3 questions:
 - collision
 
 ==========================================
-2018/03/05 Anita - Qian
+2018/03/05 - Qian
 
 1. Done since last scrum:
 - collision/explosion
@@ -80,7 +80,7 @@ Each member writes down answers to 3 questions:
 - how to create map
 
 ==========================================
-2018/03/06 Anita - Qian
+2018/03/06 - Qian
 
 1. Done since last scrum:
 - second hero tank
@@ -98,7 +98,7 @@ Each member writes down answers to 3 questions:
 - map
 
 ==========================================
-2018/03/07 Anita - Qian
+2018/03/07 - Qian
 
 1. Done since last scrum:
 - save game on database
@@ -117,7 +117,7 @@ Each member writes down answers to 3 questions:
 - networking
 
 ==========================================
-2018/03/08 Anita - Qian
+2018/03/08 - Qian
 
 
 1. Done since last scrum:
